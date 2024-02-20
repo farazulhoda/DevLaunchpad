@@ -7,7 +7,6 @@ Get ready to embark on an exciting journey into the world of web development wit
 - **Structured Learning Path**: Follow my roadmap to go from web dev newbie to coding superstar!
 - **Beginner-Friendly Tutorials**: Dive into easy-to-follow tutorials on HTML, CSS, JavaScript, and more!
 - **Starter Projects**: Get hands-on experience with fun projects designed to boost your skills!
-- **Expert Tips and Best Practices**: Learn from industry pros and stay ahead of the game!
 
 ## Getting Started 🎉
 
