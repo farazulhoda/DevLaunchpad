@@ -24,3 +24,5 @@ I welcome contributions from devs of all levels! Whether it's fixing a typo or a
 Got questions or feedback? I'd love to hear from you! Shoot me an email at firaz5973616@gmail.com and let's chat! 📩
 
 Start your web dev adventure today with DevLaunchpad - where every line of code is a step closer to achieving your dreams! 🌟 Happy coding! 💻
+
+[![Visits](https://img.shields.io/badge/dynamic/json?color=blue&label=Visits&query=count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Ffarazulhoda%2FDevLaunchpad%2Ftraffic%2Fviews)](https://github.com/farazulhoda/DevLaunchpad)
